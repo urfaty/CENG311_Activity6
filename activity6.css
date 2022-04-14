@@ -1,0 +1,18 @@
+#gamebutton {
+	display: inline-block;
+ 	padding: 15px 25px;
+  	font-size: 24px;
+  	cursor: pointer;
+  	text-align: center;
+  	text-decoration: none;
+  	outline: none;
+  	color: #fff;
+  	background-color: #d61515;
+  	border: none;
+  	border-radius: 15px;
+	box-shadow: 0 9px rgb(40, 120, 136);
+}
+
+#gamebutton:hover {
+	background-color: #3e8e41
+}
